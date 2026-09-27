@@ -1,1 +1,0 @@
-# kormolab-db
